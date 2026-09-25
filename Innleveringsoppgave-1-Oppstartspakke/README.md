@@ -1,48 +1,6 @@
 # Oppstartspakke for Erling
 ## Strategi for rekruttering og sammensetning:
 
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
 For Erling vil det være viktig å planlegge prosjektgruppens sammensetning tidlig, fordi prosjektet er både tverrfaglig 
 og tidsavgrenset. Prosjektet er å utvikle en digital løsning som må fungere teknisk, administrativt, og politisk, 
 samtidig som den skal være relevant og tilgjengelig for innbyggerne. Prosjektgruppen bør derfor bestå av personer med 
@@ -50,7 +8,7 @@ ulike fagkompetanse, erfaringer, roller og perspektiver for å få et bredt mang
 funksjonelt mangfold, samtidig som gruppemedlemmene har tidligere erfaring med tverrfaglig samarbeid og interesse for 
 digital utvikling. Vi mener at gruppen ikke trenger å være sosialt like, men at de har et felles grunnlag til å 
 samarbeide effektivt. Dette vil være viktig med tanke på at Erling og teamet kun har 15 måneder på å fullføre portalen.
->>>>>>> main
+
 
 Prosjektgruppen skal også dekke ulike funksjonelle roller som produksjon, administrasjon, integrasjon og 
 entreprenørskap. Innenfor produksjon trenger Erling personer som kan utvikle portalen, på dette området vil personer med 
@@ -102,7 +60,7 @@ Relasjonelle rammer er nødvendig i teamet for å bygge en sunn prosjektkultur. 
 
 Prosjektlederen bør derfor gjøre de uskrevne reglene eksplisitte. Han bør bli enig med teamet om at innbyggerforeningens mening om prosjektet er like viktig som de tekniske kravene til IT-avdelingen eller rollen til politisk ledelse. Ved å formalisere dette sørger lederen for at alle føler seg trygge på å bidra i en prosjektkultur hvor maktbalansen er jevnt fordelt (Edmondson, 1999), slik at prosjektet faktisk møter behovene til borgerne.
 
-<<<<<<< HEAD
+
 ## Proaktive mekanismer for konflikthåndtering: 
 
 I et tverrfaglig prosjektteam som Erlings vil det være naturlig at det oppstår uenigheter. Teammedlemmene kommer fra ulike fagområder og har forskjellige interesser, arbeidsmetoder og prioriteringer. For eksempel kan IT – avdelingen være mest opptatt av teknisk gjennomførbarhet og sikkerhet, mens brukerrepresentantene kan prioritere brukervennlighet og tilgjengelighet. Slike forskjeller kan være positive fordi de gir flere perspektiver, men dersom uenigheter ikke håndteres tidlig, kan de utvikle seg til konflikter som forsinker prosjektet og svekker samarbeidet.
@@ -136,8 +94,8 @@ Erling bør også være bevisst på at ikke alle oppgaver haster like mye. Ved �
 
 
 
-=======
+
 ## Sikring av god kommunikasjon:
 
 For at Erling skal fikse god kommunikasjon i teamet vil det være gunstig å lage et felles område å snakke sammen på. Det kan være på Messenger, Discord, Teams eller andre plattformer som tilbyr gruppefunksjoner og som kan ha felles videosamtaler. Som prosjektleder bør Erling være en del av gjengen i arbeidet, ikke bare delegere og «styre» sine kollegaer. Dersom kollegaene kan kontakte Erling direkte vil det gjøre kommunikasjon fra arbeider til leder mer effektiv enn å ha et mellomledd som kollegaene må kontakte først. For Erling som leder er det lurt å gjøre sine kollegaer bevisst på at Teamet er et trygt område å snakke, alle skal føle seg hørt og forstått. Med tanke på at det er et tverrfaglig prosjekt vil det være lurt at gruppen har en felles forståelse av hverandres kompetanse. Dersom en fra IT skal snakke om teknisk arbeid, må en tilpasse språket slik at det er forståelig for de andre leddene i gruppen også som kanskje ikke forstår alle fagbegrepene innenfor det tekniske. Det er også viktig at de tenker på hvordan de formidler seg til brukerne, de er bare brukere og mest sannsynlig ikke eksperter, derfor vil et enkelt språk føre til bedre forståelse. Erling bør også lage en plan på hvor ofte han har møter og hvor møtene skal være, om det skal være digitalt møte eller om de skal ha faste møteplasser. Vi vil anbefale å møte fysisk, det vil bidra på den psykiske helsen og møte gruppen fysisk ovenfor å møtes på et eventuelt digitalt møte. Vi vil anbefale å ha et ukentlig møte eller et kort skriv på Teams hvor han skriver litt om uka som har vært og kort om uka som kommer. Vi vil også anbefale å ha statusrapport månedlig hvor de ulike prosjektmedlemmene forteller om status på sin del av prosjektet slik at alle blir oppdatert på status hos de forskjellige leddene i gruppen. For Erling og Teamet vil god kommunikasjon bidra til bedre flyt i arbeidet, som vil ha tydelig effekt på å få fullført portalen på de 15 månedene som er satt av til arbeidet.  
->>>>>>> main
+
