@@ -2,9 +2,12 @@
 
 ## Strategi for rekruttering og sammensetning:
 
+Strategi for rekruttering og sammensetning:
+
 For Erling vil det være viktig å planlegge prosjektgruppens sammensetning tidlig, fordi prosjektet er både tverrfaglig og tidsavgrenset. Prosjektet er å utvikle en digital løsning som må fungere teknisk, administrativt, og politisk, samtidig som den skal være relevant og tilgjengelig for innbyggerne. Prosjektgruppen bør derfor bestå av personer med ulike fagkompetanse, erfaringer, roller og perspektiver for å få et bredt mangfold. Erling bør prioritere et faglig og funksjonelt mangfold, samtidig som gruppemedlemmene har tidligere erfaring med tverrfaglig samarbeid og interesse for digital utvikling. Vi mener at gruppen ikke trenger å være sosialt like, men at de har et felles grunnlag til å samarbeide effektivt. Dette vil være viktig med tanke på at Erling og teamet kun har 15 måneder på å fullføre portalen.
 
 Prosjektgruppen skal også dekke ulike funksjonelle roller som produksjon, administrasjon, integrasjon og entreprenørskap. Innenfor produksjon trenger Erling personer som kan utvikle portalen, på dette området vil personer med kompetanse innenfor IT, UX/UI og digital sikkerhet være sentralt. I administrasjonen bør Erling finne personer som kjenner til kommunens rutiner og regelverk. Personer som kan koordinere mellom fagmiljøene og som kan koble teknologi, politikk og innbyggernes behov sammen vil være bra til integrasjon. Vi mener også at her Erling bør ha en tydelig integrerende rolle som prosjektleder. Sammensetningen av prosjektgruppen påvirker prosjektet fra start, her vil det også være viktig å involvere brukerne tidlig slik at portalen utvikles ut ifra brukerne sitt behov og ikke hva utviklerne selv tror er behovet. Hvis det på et senere tidspunkt skulle oppdages at viktige kompetanser mangler, kan det føre til problemer senere i prosjektet. Dersom det dukker opp problemer vil det være kostbart både med tanke på tid og økonomi.
+
 
 ## Design av "det første møtet": 
 
@@ -31,7 +34,6 @@ Denne aktiviteten, ledet av prosjektlederen, kan deles inn i fire faser. Først 
 **10.40-11.00**_ Definisjon av fremtidige roller og avslutning av møtet. Til slutt i møtet må prosjektlederen styre prosessen med å definere fremtidige roller gjennom en åpen forventningsavklaring. Lederen skal ikke bestemme alt ovenfra og ned, han bør oppfordre til selvnominering basert på det som gruppen har lært fra pseudo-arbeid-fasen. For eksempel kunne gruppen ha sett at de to innbyggerrepresentantene har bidratt med gode ideer angående UX i brainstormingen. De kunne samarbeide med den eksterne UX-designeren, slik at brukernes stemme blir hørt tidlig. Det vil si at lederen lytter til gruppens spontane forslag, legger dem til rette og sørger for at ingen avgjørende aktivitet forblir udekket. Når rollene er bestemt, fordeler han enkle oppgaver for de neste to ukene. Lederen bør unngå planlegging for hele tidslinjen nå for å ikke gå i planleggingsfellen (punkt 5). Sist blir han enig med teamet om hvilke kommunisjonskanaler de skal bruke frem til neste møte. 
 
  
-
 ## Rammer for relasjonelle kontrakter: 
 
 Dette punktet angår det som kalles norming-fasen (Tuckman, 1965). For at prosjektet skal bli vellykket, har prosjektlederen behov for en ramme for relasjonelle kontrakter med prosjekteieren (kommunen og bystyret), som kommer i tillegg to de formelle avtalene. 
