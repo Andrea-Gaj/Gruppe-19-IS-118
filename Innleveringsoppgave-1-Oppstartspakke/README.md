@@ -1,17 +1,10 @@
-## Innleveringsoppgave-1--IS-118 Gruppe 19
-<<<<<<< HEAD
+# Oppstartspakke for Prosjektlederen Erling
 
+## Strategi for rekruttering og sammensetning:
 
+For Erling vil det være viktig å planlegge prosjektgruppens sammensetning tidlig, fordi prosjektet er både tverrfaglig og tidsavgrenset. Prosjektet er å utvikle en digital løsning som må fungere teknisk, administrativt, og politisk, samtidig som den skal være relevant og tilgjengelig for innbyggerne. Prosjektgruppen bør derfor bestå av personer med ulike fagkompetanse, erfaringer, roller og perspektiver for å få et bredt mangfold. Erling bør prioritere et faglig og funksjonelt mangfold, samtidig som gruppemedlemmene har tidligere erfaring med tverrfaglig samarbeid og interesse for digital utvikling. Vi mener at gruppen ikke trenger å være sosialt like, men at de har et felles grunnlag til å samarbeide effektivt. Dette vil være viktig med tanke på at Erling og teamet kun har 15 måneder på å fullføre portalen.
 
-
-
-
-
-
-
-
-
-
+Prosjektgruppen skal også dekke ulike funksjonelle roller som produksjon, administrasjon, integrasjon og entreprenørskap. Innenfor produksjon trenger Erling personer som kan utvikle portalen, på dette området vil personer med kompetanse innenfor IT, UX/UI og digital sikkerhet være sentralt. I administrasjonen bør Erling finne personer som kjenner til kommunens rutiner og regelverk. Personer som kan koordinere mellom fagmiljøene og som kan koble teknologi, politikk og innbyggernes behov sammen vil være bra til integrasjon. Vi mener også at her Erling bør ha en tydelig integrerende rolle som prosjektleder. Sammensetningen av prosjektgruppen påvirker prosjektet fra start, her vil det også være viktig å involvere brukerne tidlig slik at portalen utvikles ut ifra brukerne sitt behov og ikke hva utviklerne selv tror er behovet. Hvis det på et senere tidspunkt skulle oppdages at viktige kompetanser mangler, kan det føre til problemer senere i prosjektet. Dersom det dukker opp problemer vil det være kostbart både med tanke på tid og økonomi.
 
 ## Design av "det første møtet": 
 
@@ -43,17 +36,10 @@ Denne aktiviteten, ledet av prosjektlederen, kan deles inn i fire faser. Først 
 
 Dette punktet angår det som kalles norming-fasen (Tuckman, 1965). For at prosjektet skal bli vellykket, har prosjektlederen behov for en ramme for relasjonelle kontrakter med prosjekteieren (kommunen og bystyret), som kommer i tillegg to de formelle avtalene. 
 
-I et slikt komplekst og tidsbegrenset prosjekt vil uforutsette problemer oppstå. Derfor bør prosjektlederen ikke bare styre etter det velkjente jerntriangelet () basert på tid, kostnad og kvalitet, siden dette er kjent for å skape et domino-problem; hvis en av variablene endres, påvirkes de andre. Istedenfor bør lederen overvinne denne metoden og fokusere på tillit, fleksibilitet og felles krisehåndtering. 
+I et slikt komplekst og tidsbegrenset prosjekt vil uforutsette problemer oppstå. Derfor bør prosjektlederen ikke bare styre etter det velkjente jerntriangelet basert på tid, kostnad og kvalitet, siden dette er kjent for å skape et domino-problem; hvis en av variablene endres, påvirkes de andre. Istedenfor bør lederen overvinne denne metoden og fokusere på tillit, fleksibilitet og felles krisehåndtering. 
 
 Dette vil si gjennomføring av en forventningsavklaring med prosjekteieren som tydeliggjør lederens behov for å ha operativ fullmakt for å kunne ta raske operative beslutninger innenfor gitte økonomiske rammer. Dette skjer uten å måtte henvende seg til bystyret og vente på politisk godkjenning, da byråkratiet ville bremse prosjektet betydelig. Dessuten bør kommunikasjon oppover baseres på korte, regelmessige møter istedenfor lange, tidkrevende skriftlige rapporter, fordi dette vil redusere tidspresset på prosjektlederen. 
 
 Relasjonelle rammer er nødvendig i teamet for å bygge en sunn prosjektkultur. Når gruppen går inn i norming-fasen, begynner medlemmene å bli implisitt enige om hvordan de vil samarbeide (Tuckman, 1965). Dette kalles implisitte kontrakter (Gjøsund & Huseby, 2023), som er de uskrevne reglene for hvordan man skal oppføre seg. Siden teamet er tverrfaglig, det vil si sammensatt av spesialister og politikere, men også vanlige borgere, kan det lett oppstå en usunn kultur der eksperter kommanderer og har det siste ordet. 
 
-Prosjektlederen bør derfor gjøre de uskrevne reglene eksplisitte. Han bør bli enig med teamet om at innbyggerforeningens mening om prosjektet er like viktig som de tekniske kravene til IT-avdelingen eller rollen til politisk ledelse. Ved å formalisere dette sørger lederen for at alle føler seg trygge på å bidra i en prosjektkultur hvor maktbalansen er jevnt fordelt (Edmondson, 1999), slik at prosjektet faktisk møter behovene til borgerne. 
-=======
-Strategi for rekruttering og sammensetning:
-
-For Erling vil det være viktig å planlegge prosjektgruppens sammensetning tidlig, fordi prosjektet er både tverrfaglig og tidsavgrenset. Prosjektet er å utvikle en digital løsning som må fungere teknisk, administrativt, og politisk, samtidig som den skal være relevant og tilgjengelig for innbyggerne. Prosjektgruppen bør derfor bestå av personer med ulike fagkompetanse, erfaringer, roller og perspektiver for å få et bredt mangfold. Erling bør prioritere et faglig og funksjonelt mangfold, samtidig som gruppemedlemmene har tidligere erfaring med tverrfaglig samarbeid og interesse for digital utvikling. Vi mener at gruppen ikke trenger å være sosialt like, men at de har et felles grunnlag til å samarbeide effektivt. Dette vil være viktig med tanke på at Erling og teamet kun har 15 måneder på å fullføre portalen.
-
-Prosjektgruppen skal også dekke ulike funksjonelle roller som produksjon, administrasjon, integrasjon og entreprenørskap. Innenfor produksjon trenger Erling personer som kan utvikle portalen, på dette området vil personer med kompetanse innenfor IT, UX/UI og digital sikkerhet være sentralt. I administrasjonen bør Erling finne personer som kjenner til kommunens rutiner og regelverk. Personer som kan koordinere mellom fagmiljøene og som kan koble teknologi, politikk og innbyggernes behov sammen vil være bra til integrasjon. Vi mener også at her Erling bør ha en tydelig integrerende rolle som prosjektleder. Sammensetningen av prosjektgruppen påvirker prosjektet fra start, her vil det også være viktig å involvere brukerne tidlig slik at portalen utvikles ut ifra brukerne sitt behov og ikke hva utviklerne selv tror er behovet. Hvis det på et senere tidspunkt skulle oppdages at viktige kompetanser mangler, kan det føre til problemer senere i prosjektet. Dersom det dukker opp problemer vil det være kostbart både med tanke på tid og økonomi.
->>>>>>> main
+Prosjektlederen bør derfor gjøre de uskrevne reglene eksplisitte. Han bør bli enig med teamet om at innbyggerforeningens mening om prosjektet er like viktig som de tekniske kravene til IT-avdelingen eller rollen til politisk ledelse. Ved å formalisere dette sørger lederen for at alle føler seg trygge på å bidra i en prosjektkultur hvor maktbalansen er jevnt fordelt (Edmondson, 1999), slik at prosjektet faktisk møter behovene til borgerne.
