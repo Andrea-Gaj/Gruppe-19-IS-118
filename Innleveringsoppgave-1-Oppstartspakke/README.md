@@ -1,5 +1,5 @@
-## Innleveringsoppgave-1--IS-118 Gruppe 19
-Strategi for rekruttering og sammensetning:
+# Oppstartspakke for Erling
+## Strategi for rekruttering og sammensetning:
 
 For Erling vil det være viktig å planlegge prosjektgruppens sammensetning tidlig, fordi prosjektet er både tverrfaglig og tidsavgrenset. Prosjektet er å utvikle en digital løsning som må fungere teknisk, administrativt, og politisk, samtidig som den skal være relevant og tilgjengelig for innbyggerne. Prosjektgruppen bør derfor bestå av personer med ulike fagkompetanse, erfaringer, roller og perspektiver for å få et bredt mangfold. Erling bør prioritere et faglig og funksjonelt mangfold, samtidig som gruppemedlemmene har tidligere erfaring med tverrfaglig samarbeid og interesse for digital utvikling. Vi mener at gruppen ikke trenger å være sosialt like, men at de har et felles grunnlag til å samarbeide effektivt. Dette vil være viktig med tanke på at Erling og teamet kun har 15 måneder på å fullføre portalen.
 
