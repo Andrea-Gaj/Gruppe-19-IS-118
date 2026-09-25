@@ -6,6 +6,12 @@
 
 
 
+
+
+
+
+
+
 ## Design av "det første møtet": 
 
 Forming er kjernen i denne fasen (Tuckman, 1965). Prosjektlederen skal styre en mangfoldig gruppe sammensatt av politikere, spesialister, byråkrater og beboere. 
