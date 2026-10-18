@@ -13,6 +13,7 @@ while True:
     print("2. Snakk med de privat")
     
 
+    
     valg=input("Hva velger du (1 eller 2)?")
 
 
