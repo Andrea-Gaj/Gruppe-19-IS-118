@@ -11,6 +11,7 @@ while True:
     print("Elias mener Silje sin løsning vil være for komplisert og vanskelig å implementere.")
     print("1. Snakk med de i plenum")
     print("2. Snakk med de privat")
+    
 
     valg=input("Hva velger du (1 eller 2)?")
 
