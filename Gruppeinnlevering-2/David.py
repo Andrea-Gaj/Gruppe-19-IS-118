@@ -92,4 +92,4 @@ while True:
         print("Takk for at du spilte!")
         break
     
-    
+    #slutt
