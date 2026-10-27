@@ -10,17 +10,19 @@ while True:
     print ("Silje mener løsningen Elias foreslår vil låse brukeropplevelsen og hindre innovasjon.")
     print ("Elias mener Siljes forslag er urealistisk, usikkert og for kostbart.")
     
-    Valg=input ("Velger du løsning A eller løsning B?") 
     print ("A) Snakk med de i plenum")
-    print ("B Ta samtalen individuelt")
+    print ("B) Ta samtalen individuelt")
+    Valg=input ("Velger du løsning A eller løsning B?") 
+    
+    while Valg not in ["A", "B"]:
+        print ("Dette er ikke mulig svar, svar med A eller B")
+        Valg=input ("Skriv A eller B: ")
     
     if Valg == "A":
         print ("Du snakker med de i plenum")
         print ("Konflikten løser seg, Silje blir ening med Elias.")
         poeng +=1
-        
-        
-        
+    
     elif Valg == "B":
         print ("Du snakker med de individuelt")
         print ("Konflikten eskalerer ikke, men de blir fortsatt ikke ening med hverandre.")
@@ -31,9 +33,13 @@ while True:
     print ("Hamdi ønsker en kontrollert løsning gjennom kommunens eksisterende plattform.")
     print ("Hallgeir ønsker et mer åpent, dialogbasert system med rom for spontane innspill.")
         
-    Valg=input ("Velger du løsning A eller Løsning B?")
     print ("A) Ta et felles møte for å avklare konflikten.")
     print ("B) Du avventer og håper at Hamdi og Hallgeir løser det selv.")
+    Valg=input ("Velger du løsning A eller Løsning B?")
+
+    while Valg not in ["A", "B"]:
+        print ("Dette er ikke mulig svar, svar med A eller B")
+        Valg =input ("Skriv A eller B: ")
     
     if Valg == "A":
         print ("Du tar et felles møte for å avklare konflikten.")
@@ -44,10 +50,32 @@ while True:
         print ("Du avventer og håper at hamdi og hallgeir løser det selv.")
         print ("De blir ikke enige om en løsning og prosjektet stopper litt opp.")
         
-    if poeng == 2:
+   
+    print ("Konflikt 3")
+    print ("Erling tenker at det er lurt å gjøre noe for å motivere gruppen. probelmet er at gruppen har lite tid igjen og det er viktig å få levert prosjektet i tide.")
+    
+    print ("A) Erling setter av litt tid til sosiale aktiviteter som bygger tillit og samhold.") 
+    print ("B) Prioritere fremdrift av prosjektet.")
+    Valg=input ("Velger du løsning A eller Løsning B?")
+
+    while Valg not in ["A", "B"]:
+        print ("Dette er ikke mulig svar, svar med A eller B")
+        Valg =input ("Skriv A eller B: ")
+    
+    if Valg == "A":
+        print ("Erling setter av litt tid til sosiale aktiviteter som bygger tillit og samhold.")
+        print ("Prosjekter fortsetter bra.")
+        poeng +=1
+        
+    elif Valg == "B":
+        print ("Prioritere fremdrift av prosjektet.")
+        print ("Folk er utbrent og nye konflikter fortsetter å oppstå.")
+   
+   
+    if poeng == 3:
         print ("Gratulerer! Du er en konfliktløser. Nå leveres prosjektet i tide.")
         
-    elif poeng == 1: 
+    elif poeng == 2: 
         print ("Du løste den ene konflikten, den andre er fortsatt ikke løst, prosjektet blir forsinket.")
         
     else:
