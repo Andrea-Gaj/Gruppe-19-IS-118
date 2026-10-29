@@ -25,8 +25,7 @@ while True:
     if valg == "1":
         poeng +=1
         print(" Du snakker med de i plenum")
-        print(" De kommer til enighet, og Silje forstår hvorfor Elias sitt forslag fungerer bedre.")
-
+        print(" De kommer til et kompromiss og blir enige om en løsning som fungerer for begge parter.")
     elif valg == "2":
         print(" Du snakker med de privat")
         print(" De kommer ikke til enighet fordi de ikke får diskutert problemet sammen.")
@@ -46,7 +45,7 @@ while True:
     if valg == "1":
         poeng +=1
         print(" Du får de med på et felles møte hvor de kan diskutere og finne en løsning sammen")
-        print(" De kommer overens og Hamdi blir enig med Hallgeir")
+        print(" De kommer overens og lager en løsning som kombinerer begge sine ideer. Prosjektet fortsetter som planlagt")
     elif valg == "2":
         print("Du lar de ordne det på egenhånd")
         print(" De klarer ikke å bli enige. Dette fører til forsinkelser i prosjektet")
